@@ -1,0 +1,7 @@
+cmake 
+dlib
+cv2
+Tkinter
+mysql database
+haarcascade_frontalface algorithm
+
