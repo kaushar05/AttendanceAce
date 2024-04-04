@@ -1,0 +1,1 @@
+AttendanceAce is an advanced attendance management system leveraging facial recognition technology. Built with a robust MySQL connector and a user-friendly tkinter GUI, it offers seamless attendance tracking and student management. This repository contains the codebase for a comprehensive solution that streamlines the attendance process, ensuring accuracy and efficiency
